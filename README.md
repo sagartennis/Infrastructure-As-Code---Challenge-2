@@ -5,6 +5,8 @@ Convert the following Diagram to Code
 
 The task is to convert this Diagram into code. 
 
-### STEP 1 ###
 
+
+This is the outline of the Infrastructure YML file. 
+![](image2.png)
 
