@@ -5,4 +5,4 @@ Convert the following Diagram to Code
 
 The task is to convert this Diagram into code. 
 
-### STEP 1###
+### STEP 1 ###
