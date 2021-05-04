@@ -15,4 +15,4 @@ This is the outline of the Infrastructure YML file.
 
 The AWS console should have created all the resoruces mentioned in the outline.
 
-![](challenge2.png)
+![](challenge2.PNG)
